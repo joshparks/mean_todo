@@ -1,0 +1,22 @@
+{
+  "name": "node-todo",
+  "version": "1.0.0",
+  "description": "MEAN Stack To-Do",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Josh Parks",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "method-override": "^2.3.7",
+    "mongoose": "^4.7.1",
+    "morgan": "^1.7.0"
+  },
+  "scripts": {
+	  "start" : "node server.js"
+  }
+}
